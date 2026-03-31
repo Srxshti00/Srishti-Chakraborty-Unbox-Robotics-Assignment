@@ -1,5 +1,5 @@
 # Srishti-Chakraborty-Unbox-Robotics-Assignment
-# Embedded Drivers using ATmega328P
+# Embedded Drivers Assignment using ATmega328P(Arduino Uno)
 
 This repository contains my implementation of basic embedded drivers using the Arduino UNO (ATmega328P). The main idea was to understand how things work at register level instead of using Arduino built-in functions.
 
