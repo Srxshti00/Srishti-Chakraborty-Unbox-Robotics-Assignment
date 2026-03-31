@@ -21,7 +21,7 @@ Timer counts till a compare value stored in OCR1A. When the counter matches this
 The delay calculation is based on the formula:
 
 $$
-OCR1A = \frac{F_{CPU}}{\text{Prescaler} \times 1000} \times \text{Delay}{{in ms}} - 1
+OCR1A = \frac{F_{CPU}}{\text{Prescaler} \times 1000} \times \text{Delay}_{ms}} - 1
 $$
 
 For 500 ms delay:
