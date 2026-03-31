@@ -60,7 +60,7 @@ Datasheet Reference
 
 I referred to the ATmega328P datasheet to understand the register configurations and bit settings.
 
-You can add screenshots below from the datasheet:
+<img width="1311" height="251" alt="Screenshot 2026-03-31 233452" src="https://github.com/user-attachments/assets/9ad47aa7-2997-47e0-b8fe-0c0ff1495ca5" />
 
 GPIO section (DDRB, PORTB)  
 Timer1 section (TCCR1A, TCCR1B, OCR1A)  
