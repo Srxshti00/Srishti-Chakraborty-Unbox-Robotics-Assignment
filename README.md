@@ -16,7 +16,7 @@ In this part, I configured a GPIO pin as output and toggled the onboard LED. I u
 
 DDRB register is used to set the pin as output. PORTB is used to toggle the pin. Instead of using delay function, I used Timer1 in CTC mode to generate delay.
 
-Timer counts till a compare value stored in OCR1A. When the counter matches this value, a flag is set and I use that for generating delay.
+Timer counts down till a compare value stored in OCR1A. When the timer matches this value, a flag is set and I use that for generating delay.
 
 The delay calculation is based on the formula:
 
