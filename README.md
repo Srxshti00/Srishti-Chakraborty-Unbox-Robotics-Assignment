@@ -60,8 +60,6 @@ Datasheet Reference
 
 I referred to the ATmega328P datasheet to understand the register configurations and bit settings.
 
-<img width="1311" height="251" alt="Screenshot 2026-03-31 233452" src="https://github.com/user-attachments/assets/9ad47aa7-2997-47e0-b8fe-0c0ff1495ca5" />
-
-GPIO section (DDRB, PORTB)  
-Timer1 section (TCCR1A, TCCR1B, OCR1A)  
-UART section (UCSR0A, UCSR0B, UCSR0C, UBRR)
+GPIO → Section 13 (I/O Ports), pages 58–72  
+Timer1 → Section 15 (16-bit Timer/Counter1), pages 89–111  
+UART → Section 19 (USART0), pages 142–165
